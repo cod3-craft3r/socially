@@ -1,4 +1,4 @@
-# socially
+# Socially (stylized as Social.ly)
 a team chat application
 
 Firstly, you'll need to run `npm i` in both `client` as well as `server` folder to install all the dependencies.
